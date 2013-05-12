@@ -1,5 +1,5 @@
 # JavaScript Puzzlers
-I ram across these on [Adobe TV][0].  Thought they were fun to play with.  I
+I ran across these on [Adobe TV][0].  Thought they were fun to play with.  I
 have converted them slightly to run in node for quick testing on command line.
 
 ## How to run
