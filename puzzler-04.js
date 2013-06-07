@@ -28,7 +28,8 @@ console.log(count);
 
 
 /*
- * Answer: Run it and find out
+ * Answer: d) none of the above
+ * It goes into an infinite loop
  *
  * Why?
  * ... does it enter an infinite loop

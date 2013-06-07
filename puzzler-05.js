@@ -28,7 +28,8 @@ console.log(calculateChange(costOfCandy, 0.80));
 
 
 /*
- * Answer: Run it and find out
+ * Answer: d) none of the above
+ * 0.20000000000000007
  *
  * Why?
  * JavaScript does not have precision math

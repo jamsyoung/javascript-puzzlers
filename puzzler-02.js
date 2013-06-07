@@ -32,7 +32,7 @@ var name = 'World!';
 
 
 /*
- * Answer: Run it and find out
+ * Answer: b) Goodbye, Mr. Bond.
  *
  * Why?
  * - No block scope

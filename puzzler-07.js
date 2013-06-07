@@ -34,7 +34,7 @@ function isOdd(num) {
 
 
 /*
- * Answer: Run it and find out
+ * Answer: a) 7, 13
  *
  * Why?
  *

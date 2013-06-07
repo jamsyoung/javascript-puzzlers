@@ -35,7 +35,7 @@ for (var i = 0; i < zipCodes.length; i++) {
 
 
 /*
- * Answer: Run it and find out
+ * Answer: d) it varies
  *
  * Why?
  * - Firefox will print a

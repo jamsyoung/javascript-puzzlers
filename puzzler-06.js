@@ -20,12 +20,9 @@ showCase(new String('A'));
 
 /*
  * What does this output?
- *
- * a) Hello, World!
- * b) Goodbye, Mr. Bond.
- * c) Hello,
- * d) Hello, undefined
- * e) Something else? What?
+ * a) Case A
+ * b) Case B
+ * c) Do not know!
  */
 
 
@@ -39,20 +36,11 @@ showCase(new String('A'));
 
 
 /*
- * Answer: Run it and find out
+ * Answer: c) Do not know!
+ *
  *
  * Why?
- * The switch internally does strict equality ===
- *
- * console.log(typeof 'A');                 // string
- * console.log(typeof new String('A'));     // object
- *
- * console.log('A' === new String('A'));    // false
- *
- * Solution
- *
- * Know your types.  Do not pass in objects to switch statements
- * jslint will catch this as well.
- * Always assume strict equality.
+ * The switch statement uses true equality operator (===) internally
+ * The Object (new String()) does not === any 'string'
  *
  */

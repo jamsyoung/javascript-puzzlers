@@ -21,11 +21,12 @@ console.log('Maximus the ' + (commodusRule === 'thumbsUp') ? 'Gladiator' : 'Merc
 
 
 /*
- * Answer: Run it and find out
+ * Answer: c) Something else
+ * Gladiator
  *
  * Why?
  *
- * The + operator has higher precedence over the ? operator
+ * The addition (+) operator has higher precedence over the ternary (?) operator
  *
  * 'Maximus the ' + (commodusRule === 'thumbsUp') ? 'Gladiator' : 'Merciful'
  *
